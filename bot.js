@@ -129,5 +129,3 @@ if (!rank) return message.reply(' ')
 
 client.login("NTM5ODMzMDU4MDQ4ODY4MzU0.DzYwaA.QNkxPC95JyzHkdX6rhL59kJxFDg");
 client2.login("NDU2NzQ4OTg4Njg3NzEyMjU2.DzYwkg.GGW-Pc2FxUfJEPC8R1ZSZpuSf5g");
-client3.login("NTM5ODMyNDc4NjUxOTA4MTA5.DzY2fg.eNXlbUVKnBnrxPYjH0JZ8DJz11Y");
-client4.login("NTQwOTg0NDUxMjM3NDEyODc1.DzY25A.YM0qjHeZTYpkrMY6DIFai9eMUU4");
